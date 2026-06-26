@@ -104,15 +104,13 @@ zomato-restaurant-data-analysis/
 ---
 
 ## 📷 Sample Visualizations
+<img width="2990" height="1677" alt="top_restaurants" src="https://github.com/user-attachments/assets/a507d51f-cb11-49ab-93a7-7aa267e64013" />
+* Top Restaurants
+<img width="1592" height="1361" alt="Heatmap" src="https://github.com/user-attachments/assets/2b266374-3cf4-4bd5-b624-c3c9859c1b9b" />
+* Heatmap
+<img width="2565" height="1408" alt="Reatlation Between Cost and Rate" src="https://github.com/user-attachments/assets/969ecfc8-dee8-4cb5-9e1f-dd8fa23e126e" />
+* Realtion Between Cost and Rating
 
-Add screenshots of your best visualizations inside the **images** folder.
-
-Example:
-
-* Restaurant Type Distribution
-* Ratings Distribution
-* Cost vs Rating
-* Top 10 Restaurants by Votes
 
 ---
 
